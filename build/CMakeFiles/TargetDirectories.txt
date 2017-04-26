@@ -1,0 +1,8 @@
+/home/gixe3456/Dokumente/Semster 2/Prog/Übung 1/Programmiersprachen-Aufgabe-1/build/CMakeFiles/rebuild_cache.dir
+/home/gixe3456/Dokumente/Semster 2/Prog/Übung 1/Programmiersprachen-Aufgabe-1/build/CMakeFiles/edit_cache.dir
+/home/gixe3456/Dokumente/Semster 2/Prog/Übung 1/Programmiersprachen-Aufgabe-1/build/source/CMakeFiles/rebuild_cache.dir
+/home/gixe3456/Dokumente/Semster 2/Prog/Übung 1/Programmiersprachen-Aufgabe-1/build/source/CMakeFiles/helloworld.dir
+/home/gixe3456/Dokumente/Semster 2/Prog/Übung 1/Programmiersprachen-Aufgabe-1/build/source/CMakeFiles/edit_cache.dir
+/home/gixe3456/Dokumente/Semster 2/Prog/Übung 1/Programmiersprachen-Aufgabe-1/build/source/CMakeFiles/tests.dir
+/home/gixe3456/Dokumente/Semster 2/Prog/Übung 1/Programmiersprachen-Aufgabe-1/build/source/CMakeFiles/Aufgabe-1.16.dir
+/home/gixe3456/Dokumente/Semster 2/Prog/Übung 1/Programmiersprachen-Aufgabe-1/build/source/CMakeFiles/Aufgaben-1.8-1.15.dir
